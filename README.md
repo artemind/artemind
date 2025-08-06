@@ -55,4 +55,3 @@ Let’s build something great together.
 - [GitHub →](https://github.com/artemind)  
 - Email: **contact@artemind.dev**
 
----
