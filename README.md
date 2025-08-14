@@ -51,6 +51,7 @@ Let’s build something great together.
 
 ## 📫 Contact
 
+- [Website →](https://artemind.dev/?utm_source=github&utm_medium=repo_artemind&utm_campaign=personal_brand)
 - [LinkedIn →](https://www.linkedin.com/in/artem-yeremenko/)  
 - [GitHub →](https://github.com/artemind)  
 - Email: **contact@artemind.dev**
