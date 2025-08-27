@@ -12,7 +12,7 @@ I’ve worked on projects ranging from custom web applications and API-driven sy
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 
 ### 🧠 Backend
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
@@ -30,13 +30,13 @@ I’ve worked on projects ranging from custom web applications and API-driven sy
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### 🧪 Testing
-![PHPUnit](https://img.shields.io/badge/PHPUnit-6C3FA8?style=flat&logo=php&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-FF4D5A?style=flat&logo=laravel&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-6C3FA8?style=flat)
+![Pest](https://img.shields.io/badge/Pest-1E3DA3?style=flat)
 
 ### ⚙️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=flat&logo=apachespark&logoColor=white)
+![REST](https://img.shields.io/badge/REST-005571?style=flat)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
 
 ---
