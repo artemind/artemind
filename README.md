@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artem
 
-I'm a full-stack developer with 8+ years of experience in designing and developing scalable, high-performance web applications. My expertise spans both backend and frontend, with a strong focus on **Laravel**, **NestJS**, and **Vue.js**.
+I'm a full-stack developer with 9+ years of experience in designing and developing scalable, high-performance web applications. My expertise spans both backend and frontend, with a strong focus on **Laravel**, **NestJS**, and **Vue.js**.
 
 I’ve worked on projects ranging from custom web applications and API-driven systems to high-load platforms requiring advanced database optimization and caching strategies.
 
